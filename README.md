@@ -1,1 +1,1 @@
-<h1 align="center">Hello everyone, I am black 👋</h1>
+<h1 align="center">Hello, everyone! 👋</h1>
